@@ -1,7 +1,8 @@
 ---
 title: 荣格心理学 - 原型理论
 date: 2017-04-03 10:51:24
-tags: Psychology
+tags: 
+    - Psychology
 ---
 
 ## 什么是原型（the archetypes）？

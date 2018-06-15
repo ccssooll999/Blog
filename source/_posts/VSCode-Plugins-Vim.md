@@ -1,7 +1,8 @@
 ---
 title: VS Code 插件篇 - Vim 与 Windows 快捷键
 date: 2016-12-20 16:32:50
-tags: VS Code
+tags: 
+    - VS Code
 ---
 Vim 不仅仅是一个高效的文本编辑器，更是一套优秀的操作方式。在 VS Code 中我们可以通过安装插件的方式使用 Vim 模式以提高工作效率。
 

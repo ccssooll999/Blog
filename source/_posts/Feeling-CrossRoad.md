@@ -1,7 +1,8 @@
 ---
 title: CrossRoad / 十字路口
 date: 2017-10-16 11:43:14
-tags: Feeling
+tags: 
+    - Feeling
 ---
 {% centerquote %}
 我既不期望获得幸福，也不需要什么信誓旦旦的约定。

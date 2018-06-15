@@ -1,7 +1,8 @@
 ---
 title: 简单易懂的 HTTP 请求响应过程
 date: 2017-05-21 16:27:30
-tags: HTTP
+tags: 
+    - HTTP
 ---
 
 ## 准备阶段

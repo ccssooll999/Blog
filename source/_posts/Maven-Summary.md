@@ -1,7 +1,8 @@
 ---
 title: Maven 简介
 date: 2017-08-23 14:28:20
-tags: Maven
+tags: 
+    - Maven
 ---
 {% centerquote %}
 一切都是项目，一切也都将成为项目
