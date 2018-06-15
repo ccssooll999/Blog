@@ -12,4 +12,4 @@ tags:
 奔赴更加缥缈的远方。
 {% endcenterquote %}
 
-{% dplayer "url=http://media.grimoire.cc/blog/mp4/CrossRoad_AVS.mp4"  "autoplay=false" "pic=http://image.grimoire.cc/blog/jpg/CrossRoad-snapshot.jpg" "theme=#FADFA3" %}
+{% dplayer "url=http://media.grimoire.cc/blog/CrossRoad_AVS.mp4"  "autoplay=false" "pic=http://image.grimoire.cc/blog/CrossRoad-snapshot.jpg" "theme=#FADFA3" %}
