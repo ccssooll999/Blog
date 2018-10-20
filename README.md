@@ -1,6 +1,6 @@
 # 个人博客
-* 个人主页 http://grimoire.cc
-* 个人博客 http://blog.grimoire.cc
+* http://grimoire.cc
+* http://blog.grimoire.cc
 
 # 社交网络
 * [Facebook](https://www.facebook.com/ccssooll999)
@@ -10,6 +10,6 @@
 * [网易云音乐](http://music.163.com/#/user/home?id=85314608)
 
 # 联系我
-* 邮箱：<ccssooll999@gmail.com>
+* <ccssooll999@gmail.com>
 
 
