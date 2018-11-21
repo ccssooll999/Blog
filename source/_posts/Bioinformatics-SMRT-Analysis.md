@@ -38,7 +38,7 @@ pilon \
   --diploid
 ```
 - genome : 待校对基因
-- frags : 待校对基因生成的 bam 文件（需排序）
+- frags : Reads 生成的 bam 文件（需排序）
 - output : 输出文件前缀
 - outdir : 输出文件夹
 - threads : 调用线程数
@@ -161,6 +161,7 @@ nucmer \
 
 - 为提高nucmer的精确性，可将输入序列进行遮盖 (mask) 处理，避免不感兴趣的序列的联配，或修改单一性限制以降低重复导致的联配数。
 - nucmer 属于 mummer 软件包
+- {% link 结果可视化 http://assemblytics.com/ %} （可部署至本地）
 
 <br>
 
